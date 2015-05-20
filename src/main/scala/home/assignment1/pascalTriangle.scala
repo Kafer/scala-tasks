@@ -1,4 +1,4 @@
-package assignment1
+package home.assignment1
 
 import scala.annotation.tailrec
 

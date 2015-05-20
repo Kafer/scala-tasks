@@ -1,4 +1,4 @@
-package assignment2
+package home.assignment2
 
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite

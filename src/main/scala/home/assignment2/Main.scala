@@ -1,4 +1,4 @@
-package assignment2
+package home.assignment2
 
 object Main extends App {
   import FunSets._

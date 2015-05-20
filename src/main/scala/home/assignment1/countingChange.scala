@@ -1,4 +1,4 @@
-package assignment1
+package home.assignment1
 
 /**
  * Created by bzhuk on 21.04.2015.
